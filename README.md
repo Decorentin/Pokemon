@@ -6,8 +6,9 @@ Le projet **Pokémon Battle Game** est un jeu où le joueur peut sélectionner u
 
 Le projet permet de :
 - Créer un compte utilisateur et se connecter.
-- Sélectionner un Pokémon et utiliser ses sorts dans un combat.
-- Afficher les Pokémon disponibles et les sorts associés dans l'interface utilisateur.
+- Afficher les sorts disponibles.
+- Sélectionner deux Pokémon.
+- Êtes-vous prêt pour la phase de combat?
 
 ## Fonctionnalités
 
@@ -17,7 +18,7 @@ Le projet permet de :
    
 2. **Sélection des Pokémon et leurs sorts :**
    - Affichage des Pokémon disponibles dans un menu déroulant (`ComboBox`).
-   - Affichage des sorts disponibles pour chaque Pokémon sélectionné.
+   - Affichage des sorts disponibles avec leurs caractéristiques.
 
 3. **Système de combat :**
    - Affrontement entre deux Pokémon (le joueur et l'adversaire).
