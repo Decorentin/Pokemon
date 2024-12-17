@@ -31,6 +31,7 @@ Avant de commencer, vous aurez besoin de :
 
 - **.NET 5.0 ou version supérieure** pour compiler et exécuter le projet.
 - **SQL Server** pour la gestion de la base de données.
+- **Microsoft.EntityFrameworkCore**.
 - **Visual Studio** pour développer et exécuter l'application WPF.
 
 ## Installation
@@ -40,4 +41,4 @@ Avant de commencer, vous aurez besoin de :
 Clonez ce dépôt sur votre machine locale en utilisant Git :
 
 ```bash
-git clone https://github.com/votre-utilisateur/PokemonBattleGame.git
+git clone https://github.com/Decorentin/Pokemon
